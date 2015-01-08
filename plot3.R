@@ -77,7 +77,7 @@ plot(dateTime,
             max(data$Sub_metering_1) ) ) 
 
 legend("topright",
-       c("sub_metering_1","sub_metering_2","sub_metering_3"),
+       c("Sub_metering_1","Sub_metering_2","Sub_metering_3"),
        lty=c(1,1),
        lwd=c(2,2,2),
        col=c("black","red","blue"))
